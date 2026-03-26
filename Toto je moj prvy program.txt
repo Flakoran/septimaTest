@@ -1,3 +1,2 @@
 Toto je moj prvy program
-toto je druhz riadok 
 a toto zasa treti
